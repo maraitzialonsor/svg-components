@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="245.773" cy="230.653" r="75.961" id="gradient-2">
+      <stop offset="0" style="stop-color: rgba(217, 182, 121, 1)"/>
+      <stop offset="1" style="stop-color: rgba(184, 136, 52, 1)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="124.806" cy="227.273" r="69.823" id="gradient-0">
+      <stop offset="0" style="stop-color: rgba(217, 182, 121, 1)"/>
+      <stop offset="1" style="stop-color: rgba(184, 136, 52, 1)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="369.561" cy="229.895" r="69.823" id="gradient-3">
+      <stop offset="0" style="stop-color: rgba(217, 182, 121, 1)"/>
+      <stop offset="1" style="stop-color: rgba(184, 136, 52, 1)"/>
+    </radialGradient>
+  </defs>
+  <rect id="firstBand" x="229.086" y="312.827" width="86" height="12.238" style="fill: rgb(222, 218, 218);" transform="matrix(0, -1, 1, 0, -112.846588, 503.085999)" bx:origin="0.5 0.500048"/>
+  <rect id="secondBand" x="229.086" y="312.827" width="86" height="12.238" style="fill: rgb(222, 218, 218);" transform="matrix(0, -1, 1, 0, -92.826996, 503.085999)" bx:origin="0.5 -1.114208"/>
+  <rect id="thirdBand" x="229.086" y="312.827" width="86" height="12.238" style="fill: rgb(222, 218, 218);" transform="matrix(0, -1, 1, 0, -72.826996, 503.085999)"/>
+  <rect id="toleranceBand" x="229.086" y="312.827" width="86" height="12.238" style="fill: rgb(222, 218, 218);" transform="matrix(0, -1, 1, 0, -32.826996, 503.085999)"/>
+  <g id="rGroup">
+    <rect x="169.812" y="187.829" width="151.922" height="85.648" style="stroke: rgb(217, 181, 121); fill: rgb(217, 181, 121);"/>
+    <ellipse style="stroke: rgb(217, 182, 121); fill: rgb(217, 181, 121);" cx="124.806" cy="227.273" rx="69.823" ry="59.499"/>
+    <ellipse style="stroke: rgb(217, 182, 121); fill-rule: nonzero; fill: rgb(217, 181, 121);" cx="369.561" cy="229.895" rx="69.823" ry="59.499"/>
+  </g>
+  <rect id="wireOne" x="-2.816" y="221.153" width="68.182" height="13.986" style="stroke: rgb(222, 218, 218); fill: rgb(222, 218, 218);"/>
+  <rect id="wireTwo" x="436.869" y="223.776" width="68.182" height="13.986" style="stroke: rgb(222, 218, 218); fill: rgb(222, 218, 218);"/>
+</svg>

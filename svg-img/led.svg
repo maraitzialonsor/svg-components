@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="235.2" cy="167.437" r="60" id="gradient-1" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgba(255, 60, 60, 1)"/>
+      <stop offset="1" style="stop-color: rgba(213, 0, 0, 1)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="235.029" cy="234.074" r="70" id="gradient-0" gradientTransform="matrix(1, 0, 0, 1, 0, 0)">
+      <stop offset="0" style="stop-color: rgba(255, 60, 60, 1)"/>
+      <stop offset="1" style="stop-color: rgba(213, 0, 0, 1)"/>
+    </radialGradient>
+  </defs>
+  <rect x="229.086" y="312.827" width="86" height="12.238" style="stroke: rgb(222, 218, 218); fill: rgb(154, 151, 151);" transform="matrix(0, -1, 1, 0, -45.826996, 567.085999)" bx:origin="0.5 0.500048"/>
+  <rect x="229.086" y="312.827" width="86" height="12.238" style="stroke: rgb(222, 218, 218); fill: rgb(154, 151, 151);" transform="matrix(0, -1, 1, 0, -123.627052, 567.085999)" bx:origin="0.5 0.500048"/>
+  <g>
+    <path style="stroke: rgb(255, 60, 60); fill: url(#gradient-1);" d="M 225.2 107.437 H 245.2 A 50 50 0 0 1 295.2 157.437 V 227.437 H 175.2 V 157.437 A 50 50 0 0 1 225.2 107.437 Z" bx:shape="rect 175.2 107.437 120 120 50 50 0 0 1@9a4a6cb6"/>
+    <rect style="stroke: rgb(255, 60, 60); fill: url(#gradient-0);" x="165.029" y="214.074" width="140" height="40" rx="5" ry="5"/>
+  </g>
+</svg>

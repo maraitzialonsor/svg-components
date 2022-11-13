@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="326.666" y1="103.262" x2="326.666" y2="303.262" id="gradient-1" gradientTransform="matrix(1, 0, 0, 1, -49.825211, -45.092426)">
+      <stop offset="0" style="stop-color: rgba(21, 21, 21, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="326.666" y1="103.262" x2="326.666" y2="303.262" id="gradient-2" gradientTransform="matrix(1, 0, 0, 0.1, -49.825924, 249.317993)">
+      <stop offset="0" style="stop-color: rgba(21, 21, 21, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="299.825" y1="104.336" x2="299.825" y2="304.336" id="gradient-3" gradientTransform="matrix(1, 0, 0, 0.1, -49.825924, 249.317993)">
+      <stop offset="0" style="stop-color: rgba(0, 0, 0, 1)"/>
+      <stop offset="1" style="stop-color: rgba(0, 0, 0, 1)"/>
+    </linearGradient>
+  </defs>
+  <path style="fill-rule: nonzero; fill: url(#gradient-1); stroke: rgb(0, 0, 0);" d="M 210 59.243 H 290 A 20 20 0 0 1 310 79.243 V 244.243 A 15 15 0 0 1 295 259.243 H 205 A 15 15 0 0 1 190 244.243 V 79.243 A 20 20 0 0 1 210 59.243 Z" bx:shape="rect 190 59.243 120 200 20 20 15 15 1@d753ab11"/>
+  <rect x="229.086" y="312.827" width="86" height="12.238" style="stroke: rgb(222, 218, 218); fill: rgb(154, 151, 151);" transform="matrix(0, -1, 1, 0, -93.30957, 594.085999)" bx:origin="0.5 0.500048"/>
+  <rect x="229.086" y="312.827" width="86" height="12.238" style="stroke: rgb(222, 218, 218); fill: rgb(154, 151, 151);" transform="matrix(0, -1, 1, 0, -44.550968, 594.085999)" bx:origin="0.5 0.500048"/>
+  <rect style="fill-rule: nonzero; fill: url(#gradient-2); stroke: url(#gradient-3);" x="190" y="259.752" width="120" height="20" rx="10" ry="10"/>
+  <rect x="532.758" y="383.429" width="200" height="15" style="fill: rgb(87, 87, 87); stroke: rgb(87, 87, 87);" transform="matrix(0, -1, 1, 0, -141.918442, 792.426514)" bx:origin="0.502343 0.500048"/>
+</svg>
